@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					7FF25B781F6745ED001595DB = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 2M28XVNBRS;
+						DevelopmentTeam = D7KZ9K6582;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,7 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2M28XVNBRS;
+				DEVELOPMENT_TEAM = D7KZ9K6582;
 				INFOPLIST_FILE = practiceSegues/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.LisCardozo.practiceSegues;
@@ -276,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2M28XVNBRS;
+				DEVELOPMENT_TEAM = D7KZ9K6582;
 				INFOPLIST_FILE = practiceSegues/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.LisCardozo.practiceSegues;
